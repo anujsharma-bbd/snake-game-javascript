@@ -1,0 +1,18 @@
+.main-area{
+    width:800px;
+    height:800px;
+    margin:20px;
+    background-color:#eee;
+    margin:0 auto;
+}
+*{
+    box-sizing: border-box;
+}
+.main-area .square,main-area .food{
+    height:16px;
+    width:16px;
+    float:left;
+}
+.main-area .snake{
+    background-color:#000;
+}
